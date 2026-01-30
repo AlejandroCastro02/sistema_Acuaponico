@@ -38,6 +38,8 @@ git clone https://github.com/AlejandroCastro02/sistema_Acuaponico.git
 
 3. Selecciona el microcontrolador Arduino Nano del archivo y carga su firmware con el .hex obtenido.
 
+![Captura_simulacion_SimulIDE](sistema_Acuaponico_simulIDE.png)
+
 ---
 
 
